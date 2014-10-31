@@ -1,6 +1,6 @@
-# Eskridge Open Source Icons
+# Forum Bubble Icones
 
-These icons were created for Eskridge Technology for us in our open source projects.
+These icons were created for the OpenLaunch CMS.
 As we have no interest in selling them, we have made these icons available free of
 charge. These icons are licensed under the MIT License, meaning that you are
 free to distribute, modify, and use them. For the full text of the license,
